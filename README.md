@@ -1,37 +1,48 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<!-- TERMINAL STYLE PROFILE README -->
 
-###
+<div align="center">
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=root%40zeroalek%3A~%24+whoami;Alek;root%40zeroalek%3A~%24+cat+about.txt;Curious+mind.+Always+learning." alt="Typing SVG" />
+
+# <span style="color:#00ff66">Alek</span>
+
+**`root@zeroalek:~$`**  
+*Learning, building, and exploring the digital world.*
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+### `$ whoami`
+
+Hi, I'm **Alek**. I enjoy technology, coding, Linux, and understanding how things work. I'm currently learning and experimenting with small projects.
+
+### `$ focus --now`
+
+- Python and Bash
+- Linux and command-line tools
+- Networking fundamentals
+- Cybersecurity fundamentals in legal, authorized environments
+
+### `$ ls tools/`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
+</p>
+
+### `$ git status`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zeroalek&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" height="165" />
+<img src="https://streak-stats.demolab.com?user=zeroalek&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=C9D1D9&dates=8B949E" height="165" />
+
 </div>
 
-###
+---
+
+<div align="center">
+
+`[ connection: established ] [ status: learning ]`
+
+</div>
