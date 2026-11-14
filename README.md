@@ -72,6 +72,23 @@ learn -> build -> test -> improve -> repeat
 
 </div>
 
+
+## 05 / pac-man contributions
+
+<div align="center">
+
+<p>My GitHub contributions, turned into a little arcade game.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeroalek/zeroalek/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeroalek/zeroalek/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/zeroalek/zeroalek/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<sub>Generated automatically every day with <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-contribution-graph</a>.</sub>
+
+</div>
+
 ---
 
 <div align="center">
