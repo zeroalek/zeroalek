@@ -34,34 +34,13 @@ learn -> build -> test -> improve -> repeat
 
 ## `02 / tech stack`
 
-**Languages and web**
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,kali,linux,vmware,python,c&theme=dark" alt="Java, Kali Linux, Linux, VMware, Python y C" />
 
-**Tools and services**
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" />
-</p>
-
-**Other tools I've explored**
-
-<p>
-  <img src="https://img.shields.io/badge/Leaflet-maps-07130b?style=flat-square&logo=leaflet&logoColor=39ff88" />
-  <img src="https://img.shields.io/badge/OpenStreetMap-open%20data-07130b?style=flat-square&logo=openstreetmap&logoColor=39ff88" />
-  <img src="https://img.shields.io/badge/OSRM-routing-07130b?style=flat-square" />
-</p>
-
-## `03 / currently`
-
-- Improving my web development skills.
-- Learning to write cleaner and more maintainable code.
-- Experimenting with new ideas and personal projects.
-- Exploring accessibility, privacy, and better user experiences.
-
-## `04 / github activity`
+## `03 / github activity`
 
 <div align="center">
 
