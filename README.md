@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeroalek&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39a96b&icon_color=39a96b&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+<img src="./profile/stats.svg" alt="GitHub stats" />
 
 ---
 
