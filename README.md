@@ -1,43 +1,83 @@
-# Alek <img src="https://img.shields.io/badge/zeroalek-00ff66?style=flat-square&label=@" alt="zeroalek" />
+<!-- ZEROALEK · PROFILE README -->
 
-**Desarrollo web · proyectos propios · aprender haciendo**
+<div align="center">
 
-¡Hola! Soy Alek. Me gusta crear proyectos útiles, aprender nuevas tecnologías y mejorar poco a poco con cada idea que convierto en código.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alek.;Welcome+to+my+GitHub.;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
 
----
+# Alek
 
-## 🚀 Proyecto destacado
+**`root@zeroalek:~$`**
 
-### [Memvia — Tu gente, siempre cerca](https://github.com/zeroalek/Memvia)
+*Learning, building, and exploring the digital world.*
 
-Una aplicación web pensada para ayudar a personas con dificultades de memoria a reconocer a sus familiares y organizar sus rutinas diarias.
+<img src="https://img.shields.io/badge/GitHub-zeroalek-07130b?style=for-the-badge&logo=github&logoColor=39ff88" />
+<img src="https://komarev.com/ghpvc/?username=zeroalek&style=for-the-badge&color=14532d&label=PROFILE+VISITS" />
 
-- Familiares, nombres y contacto rápido.
-- Tareas y recordatorios.
-- Seguimiento de medicación.
-- Mapa con ubicaciones y rutas.
-- Recuerdos y un pequeño juego de reconocimiento.
-
-**[Probar la demo](https://alejandro22410.github.io/Memvia/)** · **[Ver el repositorio](https://github.com/zeroalek/Memvia)**
+</div>
 
 ---
 
-## 🧰 Tecnologías
+## `01 / whoami`
+
+Hi! I'm **Alek**. I enjoy technology, coding, and turning ideas into projects. I like learning how things work, solving problems, and improving a little with every project.
+
+```bash
+$ whoami
+Alek
+
+$ interests
+web development · programming · technology
+
+$ mindset
+learn -> build -> test -> improve -> repeat
+```
+
+## `02 / tech stack`
+
+**Languages and web**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,git,github,vscode" alt="HTML, CSS, JavaScript, Firebase, Git, GitHub y VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-También he trabajado con Leaflet, OpenStreetMap y OSRM para las funciones de mapas de Memvia.
+**Tools and services**
 
-## 📌 Ahora mismo
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" />
+</p>
 
-- Mejorando mis habilidades de desarrollo web.
-- Creando y puliendo proyectos propios.
-- Aprendiendo sobre accesibilidad, privacidad y buenas prácticas.
+**Other tools I've explored**
+
+<p>
+  <img src="https://img.shields.io/badge/Leaflet-maps-07130b?style=flat-square&logo=leaflet&logoColor=39ff88" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-open%20data-07130b?style=flat-square&logo=openstreetmap&logoColor=39ff88" />
+  <img src="https://img.shields.io/badge/OSRM-routing-07130b?style=flat-square" />
+</p>
+
+## `03 / currently`
+
+- Improving my web development skills.
+- Learning to write cleaner and more maintainable code.
+- Experimenting with new ideas and personal projects.
+- Exploring accessibility, privacy, and better user experiences.
+
+## `04 / github activity`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeroalek&show_icons=true&hide_border=true&bg_color=07130b&title_color=39ff88&icon_color=39ff88&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=zeroalek&hide_border=true&background=07130b&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=c9d1d9&dates=8b949e" />
+
+<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroalek&layout=compact&hide_border=true&bg_color=07130b&title_color=39ff88&text_color=c9d1d9" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Gracias por pasarte por aquí. ¡Echa un vistazo a mis proyectos!</i>
-</p>
+<div align="center">
+
+`[ STATUS: LEARNING ]  [ KEEP BUILDING ]  [ ZEROALEK ]`
+
+*Thanks for visiting my profile!*
+
+</div>
